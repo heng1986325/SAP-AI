@@ -1,0 +1,8 @@
+{
+  "app_id": "cli_a6b6e185e45d900c",
+  "app_secret": "<YOUR_APP_SECRET>",
+  "base_token": "<YOUR_BASE_TOKEN>",
+  "table_id": "tblxDzi8Q1pt5vjm",
+  "table_name": "14.标准化清单_OP&PCE",
+  "search_fields": ["程序名", "开发程序描述", "事务代码", "函数名", "文本", "一级分类", "二级分类"]
+}
